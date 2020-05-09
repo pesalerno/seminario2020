@@ -1,16 +1,16 @@
 # Setup
-title:        Genomics of Biodiversity @ IBS 2019
+title:        Seminario Ecosistemas | telesemestre IKIAM 2020
 tagline:       
 baseurl:      
-url:          https://rdtarvin.github.io/IBS2019_Genomics-of-Biodiversity/
+url:          https://pesalerno.github.io/seminario2020/
 paginate:     1
 theme: jekyll-theme-cayman
 future: true
 
 # About/contact
 author:
- name:       Becca Tarvin
- url:        http://www.tarvinlab.org
+ name:       Patricia Salerno
+ url:        https://patriciasalerno.wixsite.com/tepui
 
 # Gems
 plugins:
