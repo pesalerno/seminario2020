@@ -7,11 +7,16 @@ title: {{ site.name }}
   <h1>Welcome!</h1>
   
 
-	Bienvenidos al curso *"Seminario de Ecosistemas III"*, en el cual llevaremos a cabo un proyecto interdisciplinario de dos semanas de duración, todo desde nuestros computadores. 
+	Bienvenidos al curso <b>"Seminario de Ecosistemas III"<b>, en el cual llevaremos a cabo un proyecto interdisciplinario 
+	de dos semanas de duración, todo desde nuestros computadores. El proyecto estará enfocado en caracterizar genómicamente
+	a varias especies de vertebrados de las islas Channel de California, EEUU, y evaluara distintos aspectos del paisaje 
+	que pueden estar afectando la diversidad y divergencia genetica entre las distintas poblaciones de estos vertebrados
+	endémicos de las islas.<br><br>
 	
-	>En esta pagina podran encontrar toda la información acerca del curso, el syllabus, y cualquier otro contenido relevante. Revisela con frecuencia para encontrar nuevas noticias y *'updates'*. <br> <br>
+	En esta pagina podran encontrar toda la información acerca del curso, el syllabus, y cualquier otro contenido relevante. 
+	Revisela con frecuencia para encontrar nuevas noticias y actualizaciones. <br> <br>
 	
-	**RESUMEN DEL CURSO: un corto resumen aca**    <br><br>
+	<b>RESUMEN DEL CURSO: un corto resumen aca<b>    <br><br>
 	Algo mas aca...       <br><br>
 	
 
@@ -38,8 +43,7 @@ title: {{ site.name }}
                  {% else %}
                  	<td align="left"> <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> </td>
                  {% endif %}
-                 <td> {{ post.lesson-type }} </td>
-                 <td> {{ post.instructor }} </td> 
+                 <td> {{ post.lesson-type }} </td> 
      </tr>   
     {% endfor %}
     </table>
