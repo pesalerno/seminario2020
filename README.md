@@ -1,4 +1,4 @@
-[https://pesalerno.github.io-seminario2020/](https://pesalerno.github.io-seminario2020/)
+[https://pesalerno.github.io/seminario2020/](https://pesalerno.github.io/seminario2020/)
 
 # Seminario Ecosistemas III | telesemestre Junio 2020
 
