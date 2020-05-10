@@ -2,6 +2,7 @@
 layout: default
 order: 6
 title:  "Estimando diversidad genética"
+date: 2020-06-05
 time:   "viernes 5 junio"
 categories: main
 instructor: "Becca & Pati"

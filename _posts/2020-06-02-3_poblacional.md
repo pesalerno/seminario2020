@@ -2,6 +2,7 @@
 layout: default
 order: 3
 title:  "Taller: intro a genómica poblacional"
+date: 2020-06-02
 time:   "martes 2 junio"
 categories: main
 instructor: "Pati"

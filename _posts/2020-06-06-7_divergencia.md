@@ -3,6 +3,7 @@ layout: default
 order: 7
 title:  "estimando divergencia genetica"
 time:   "lunes 8 junio"
+date: 2020-06-08
 categories: main
 instructor: "pati"
 materials: files/fakefile.txt
