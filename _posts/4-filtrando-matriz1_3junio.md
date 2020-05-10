@@ -1,8 +1,8 @@
 ---
 layout: default
-order: 3
+order: 4
 title:  "Filtrando la matriz genómica"
-time:   "martes 2 junio"
+time:   "miercoles 3 junio"
 categories: main
 instructor: 
 materials: 
@@ -11,4 +11,4 @@ lesson-type: participativa, autoguiada
 ---
 
 
-
+# Día 4: Filtrando la matriz genómica parte I

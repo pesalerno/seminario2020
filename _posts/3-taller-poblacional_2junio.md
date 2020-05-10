@@ -2,7 +2,7 @@
 layout: default
 order: 3
 title:  "Taller: intro a genómica poblacional"
-time:   "lunes 1 junio"
+time:   "martes 2 junio"
 categories: main
 instructor: "Pati"
 materials: files/fakefile.txt
