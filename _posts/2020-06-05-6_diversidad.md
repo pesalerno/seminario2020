@@ -11,11 +11,11 @@ material-type: ""
 lesson-type: Interactiva, autoguiada
 ---
 
-<a href="https://rdtarvin.github.io/IBS2019_Genomics-of-Biodiversity/main/2019/08/05/01-introduction.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>    <a href="https://rdtarvin.github.io/IBS2019_Genomics-of-Biodiversity/main/2019/08/05/05-stacks-epi.html"><button>Siguiente Actividad</button></a>
+<a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-04-5_filtros2.md"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>    <a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-06-7_divergencia.md"><button>Siguiente Actividad</button></a>
 
 # Día 6: Estimando diversidad genética
 
-<a href="https://rdtarvin.github.io/IBS2019_Genomics-of-Biodiversity/main/2019/08/05/01-introduction.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>    <a href="https://rdtarvin.github.io/IBS2019_Genomics-of-Biodiversity/main/2019/08/05/05-stacks-epi.html"><button>Siguiente Actividad</button></a>
+<a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-04-5_filtros2.md"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>    <a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-06-7_divergencia.md"><button>Siguiente Actividad</button></a>
 
 
 
