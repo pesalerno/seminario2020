@@ -11,7 +11,7 @@ material-type: "https://github.com/pesalerno/seminario2020/edit/master/_posts/20
 lesson-type: Interactiva, autoguiada, videollamada
 ---
 
-<a href="https://rdtarvin.github.io/IBS2019_Genomics-of-Biodiversity/main/2019/08/05/01-introduction.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>    <a href="https://rdtarvin.github.io/IBS2019_Genomics-of-Biodiversity/main/2019/08/05/05-stacks-epi.html"><button>Siguiente Actividad</button></a>
+<a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-01-2_genomica.md"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>    <a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-03-4_filtros1.md"><button>Siguiente Actividad</button></a>
 
 
 # Dia 3: Taller: introducción a genómica poblacional, conceptos y aplicaciones
@@ -20,7 +20,7 @@ lesson-type: Interactiva, autoguiada, videollamada
 
 <br><br>
 
-<a href="https://rdtarvin.github.io/IBS2019_Genomics-of-Biodiversity/main/2019/08/05/01-introduction.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>    <a href="https://rdtarvin.github.io/IBS2019_Genomics-of-Biodiversity/main/2019/08/05/05-stacks-epi.html"><button>Siguiente Actividad</button></a>
+<a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-01-2_genomica.md"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/seminario2020/"><button>Inicio</button></a>    <a href="https://github.com/pesalerno/seminario2020/blob/master/_posts/2020-06-03-4_filtros1.md"><button>Siguiente Actividad</button></a>
 
 
 
